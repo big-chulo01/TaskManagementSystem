@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementSystem.Presen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exporter.Abstractions", "Exporter.Abstractions\Exporter.Abstractions.csproj", "{5D116C37-5ED6-4E06-8284-79D3A36164A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonExporterPlugin", "JsonExporterPlugin\JsonExporterPlugin.csproj", "{09537FFF-D1E2-4957-A8D3-43BE65020FBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{5D116C37-5ED6-4E06-8284-79D3A36164A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D116C37-5ED6-4E06-8284-79D3A36164A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D116C37-5ED6-4E06-8284-79D3A36164A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09537FFF-D1E2-4957-A8D3-43BE65020FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09537FFF-D1E2-4957-A8D3-43BE65020FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09537FFF-D1E2-4957-A8D3-43BE65020FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09537FFF-D1E2-4957-A8D3-43BE65020FBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
