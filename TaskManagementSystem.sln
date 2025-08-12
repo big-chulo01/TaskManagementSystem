@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementSystem.Domain
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementSystem.Application", "TaskManagementSystem.Application\TaskManagementSystem.Application.csproj", "{BE6C0FA0-FC20-418B-8EE6-70E18B9DB7E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManagementSystem.Infrastructure", "TaskManagementSystem.Infrastructure\TaskManagementSystem.Infrastructure.csproj", "{01319F35-E76F-4497-9F27-8F15E986B334}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{BE6C0FA0-FC20-418B-8EE6-70E18B9DB7E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE6C0FA0-FC20-418B-8EE6-70E18B9DB7E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE6C0FA0-FC20-418B-8EE6-70E18B9DB7E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01319F35-E76F-4497-9F27-8F15E986B334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01319F35-E76F-4497-9F27-8F15E986B334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01319F35-E76F-4497-9F27-8F15E986B334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01319F35-E76F-4497-9F27-8F15E986B334}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
